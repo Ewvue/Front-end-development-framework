@@ -4,3 +4,4 @@
 * 用Element-ui框架设计基于PC端的网站设计
 * 安装Mpvue框架
 * 在https://www.dcloud.io/下载商城插件
+* 页面 轮播图 数据动态显示
